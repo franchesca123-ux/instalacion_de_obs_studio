@@ -65,3 +65,6 @@ Se utilizarán 12,1 MB de espacio de disco adicional después de esta operación
 ¿Desea continuar? [S/n] s
 
 ```
+
+## captura de ...
+![imagen](./img/obsgcap.png)
